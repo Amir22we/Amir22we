@@ -26,7 +26,7 @@ When I am not writing backend code, I:
 
 - Python / C++
 - Django / Aiogram / Telethon
-- Linux (Arch Linux)
+- Linux (Arch Linux btw)
 - Git / GitHub
 - Bash / Shell
 - Docker (when necessary)
