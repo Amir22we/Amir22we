@@ -33,6 +33,7 @@ When I am not writing backend code, I:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,cpp,linux,git,docker,bash" />
 </p>
+
 ## 📌 Current Focus
 
 Right now I am focused on:
