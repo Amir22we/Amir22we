@@ -28,7 +28,6 @@ I use Linux as my main system and have practical experience working in it.
 
 ## Contacts
 
-Telegram: @new26qwerty
-GitHub: github.com/amir22we
+Telegram: @new26qwerty | 
 Email: [mrrooty7@gmail.com](mailto:mrrooty7@gmail.com)
 
