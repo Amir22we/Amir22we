@@ -1,6 +1,6 @@
 # Amir | Python Developer
 
-I am a beginner backend developer focused on Django.
+I am a backend developer focused on Django.
 
 ## Skills
 
